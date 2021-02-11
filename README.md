@@ -1,4 +1,8 @@
-### Hi there 👋
+### My Stats
+[![yunu7067's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunu7067&locale=kr)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunu7067&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **yunu7067/yunu7067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
