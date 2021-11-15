@@ -5,7 +5,7 @@
 [![yunu7067's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunu7067&locale=kr)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-[![yunu7067's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunu7068&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![yunu7068's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunu@7068&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://shields.io/ -->
 <!--
