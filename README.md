@@ -1,5 +1,5 @@
 
-```bash
+```text
                     'c.          최윤혁@yunu7067-GitHub.com
                  ,xNMM.          -------------------------------------
                .OMMMMo           OS: macOS 13.0 22A380 arm64
@@ -21,15 +21,15 @@
 ```
 
 <br />
-<br />
 
+---
 
 <!--START_SECTION:msrm-->
 
-My GitHub Stats
+**My GitHub Stats**
 ```text
 ⭐ Total Stars:                                   5
-➕ Total Commits:                             1,335
+➕ Total Commits:                             1,338
 🔀 Total PRs:                                   235
 🚩 Total Issues:                                 78
 📦 Contributed to:                               13
@@ -37,9 +37,9 @@ My GitHub Stats
 
 **I'm an early 🐤**
 ```text
-🌞 Morning    230 commits   ████▋░░░░░░░░░░░░░░░░  22.3%
-🌆 Daytime    405 commits   ████████▏░░░░░░░░░░░░  39.2%
-🌃 Evening    288 commits   █████▊░░░░░░░░░░░░░░░  27.9%
+🌞 Morning    230 commits   ████▋░░░░░░░░░░░░░░░░  22.2%
+🌆 Daytime    408 commits   ████████▎░░░░░░░░░░░░  39.4%
+🌃 Evening    288 commits   █████▊░░░░░░░░░░░░░░░  27.8%
 🌙 Night      110 commits   ██▏░░░░░░░░░░░░░░░░░░  10.6%
 ```
 
@@ -52,10 +52,11 @@ My GitHub Stats
 5 JSON       1 hr 8 mins    █▏░░░░░░░░░░░░░░░░░░░   5.6%
 ```
 
-Last Updated on Sun, 06 Nov 2022 07:44:10 GMT
+Last Updated on Sun, 06 Nov 2022 07:48:35 GMT
 
 <!--END_SECTION:msrm-->
 
+---
+
 <!-- https://hits.seeyoufarm.com -->  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunu7067&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=true)](https://hits.seeyoufarm.com)
-
