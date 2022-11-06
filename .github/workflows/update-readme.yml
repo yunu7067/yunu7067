@@ -11,9 +11,11 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+      - name: test
+        run: ls -al
 
       - name: Runs script
-        run: node my-special-readme/main.js
+        run: node main.js
         env:
           DEBUG_MODE: "false"
           TIMEZONE: "Asia/Seoul"
