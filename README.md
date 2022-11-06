@@ -23,83 +23,10 @@
 <br />
 <br />
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    229 commits    █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-🌆 Daytime    394 commits    █████████░░░░░░░░░░░░░░░░   38.59% 
-🌃 Evening    260 commits    ██████░░░░░░░░░░░░░░░░░░░   25.47% 
-🌙 Night      138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       192 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-Tuesday      169 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
-Wednesday    163 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
-Thursday     166 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
-Friday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-Sunday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.79%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   9 hrs 43 mins       ███████████░░░░░░░░░░░░░░   47.35% 
-TypeScript               3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-JavaScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.57%
-
-```
-
-
- Last Updated on 05/11/2022 18:44:30 UTC
-<!--END_SECTION:waka-->
-
-<!-- https://hits.seeyoufarm.com -->  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunu7067&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--START_SECTION:msrm-->
-
-My GitHub Stats
-```text
-⭐ Total Stars:                                   5
-➕ Total Commits:                             1,333
-🔀 Total PRs:                                   235
-🚩 Total Issues:                                 78
-📦 Contributed to:                               13
-```
-
-**I'm an early 🐤**
-```text
-🌞 Morning    230 commits   ████▋░░░░░░░░░░░░░░░░  22.3%
-🌆 Daytime    403 commits   ████████▏░░░░░░░░░░░░  39.1%
-🌃 Evening    288 commits   █████▊░░░░░░░░░░░░░░░  27.9%
-🌙 Night      110 commits   ██▏░░░░░░░░░░░░░░░░░░  10.7%
-```
-
-📊 **This Week I Spent My Time On**
-```text
-1 Python     9 hrs 43 mins  █████████▉░░░░░░░░░░░  47.4%
-2 TypeScript 3 hrs 48 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
-3 Other      2 hrs 32 mins  ██▌░░░░░░░░░░░░░░░░░░  12.4%
-4 JavaScript 1 hr 40 mins   █▋░░░░░░░░░░░░░░░░░░░   8.2%
-5 JSON       1 hr 8 mins    █▏░░░░░░░░░░░░░░░░░░░   5.6%
-```
-
-Last Updated on Sun, 06 Nov 2022 07:40:45 GMT
-
 <!--END_SECTION:msrm-->
+
+<!-- https://hits.seeyoufarm.com -->  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunu7067&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=true)](https://hits.seeyoufarm.com)
+
