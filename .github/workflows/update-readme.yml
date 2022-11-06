@@ -20,6 +20,8 @@ jobs:
           TIMEZONE: "Asia/Seoul"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          FEED_URL: "https://yunu7067.github.io/rss.xml"
+          MAX_POST_COUNT: "4"
 
       - name: Update README.md
         uses: EndBug/add-and-commit@v9
