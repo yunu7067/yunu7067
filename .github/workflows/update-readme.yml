@@ -13,7 +13,7 @@ jobs:
           node-version: 18
 
       - name: Runs script
-        run: "node my-special-readme/main.js"
+        run: node my-special-readme/main.js
         env:
           DEBUG_MODE: "false"
           TIMEZONE: "Asia/Seoul"
