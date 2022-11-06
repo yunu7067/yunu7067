@@ -1,0 +1,26 @@
+name: Update README
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Runs script
+        run: "node my-special-readme/main.js"
+        env:
+          DEBUG_MODE: "false"
+          TIMEZONE: "Asia/Seoul"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Update README.md
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "README.md"
