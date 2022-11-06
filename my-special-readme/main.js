@@ -182,7 +182,7 @@ const strings = {
     end: "<!--END_SECTION:msrm-->",
     boxs: {
         "github-stats-box": {
-            title: "My GitHub Stats",
+            title: "**My GitHub Stats**",
         },
         "productive-box": {
             title: "**I'm an early 🐤**",
