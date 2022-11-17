@@ -28,26 +28,26 @@
 
 **📕  Latest Blog Posts**
 
-- [블로그 개발일지](https://yunu7067.github.io/p/blog-development-diary/)
-- [Content Security Policy](https://yunu7067.github.io/p/content-security-policy/)
-- [Dublin Core™ Metadata Initiative](https://yunu7067.github.io/p/dublincore/)
+- [어노테이션과 인터셉터로 인증 구현하기](https://yunu7067.github.io/p/impl-spring-auth-using-interceptor/)
 - [Gradle Task 톺아보기](https://yunu7067.github.io/p/gradle-tasks/)
+- [AWS 람다, S3를 이용한 이미지 리사이징](https://yunu7067.github.io/p/image-resize-for-aws-lambda/)
+- [스벨트 & 스벨트 킷](https://yunu7067.github.io/p/svelte-and-sveltekit/)
 
 **My GitHub Stats**
 ```text
 ⭐ Total Stars:                                   6
-➕ Total Commits:                             1,381
-🔀 Total PRs:                                   240
+➕ Total Commits:                             1,386
+🔀 Total PRs:                                   241
 🚩 Total Issues:                                 79
 📦 Contributed to:                               13
 ```
 
 **I'm an early 🐤**
 ```text
-🌞 Morning    226 commits   ████▌░░░░░░░░░░░░░░░░  21.5%
-🌆 Daytime    404 commits   ████████░░░░░░░░░░░░░  38.4%
+🌞 Morning    225 commits   ████▍░░░░░░░░░░░░░░░░  21.4%
+🌆 Daytime    401 commits   ████████░░░░░░░░░░░░░  38.1%
 🌃 Evening    284 commits   █████▋░░░░░░░░░░░░░░░  27.0%
-🌙 Night      137 commits   ██▋░░░░░░░░░░░░░░░░░░  13.0%
+🌙 Night      142 commits   ██▊░░░░░░░░░░░░░░░░░░  13.5%
 ```
 
 📊 **This Week I Spent My Time On**
@@ -59,7 +59,7 @@
 5 JSON       1 hr 8 mins    █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 
-Last Updated on Wed, 16 Nov 2022 18:41:58 GMT
+Last Updated on Thu, 17 Nov 2022 06:57:00 GMT
 
 <!--END_SECTION:msrm-->
 
