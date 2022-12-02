@@ -28,17 +28,17 @@
 
 **📕  Latest Blog Posts**
 
+- [NGINX 콘텐츠 캐싱](https://yunu7067.github.io/p/nginx-content-caching/)
 - [어노테이션과 인터셉터로 인증 구현하기](https://yunu7067.github.io/p/impl-spring-auth-using-interceptor/)
 - [Gradle Task 톺아보기](https://yunu7067.github.io/p/gradle-tasks/)
 - [AWS 람다, S3를 이용한 이미지 리사이징](https://yunu7067.github.io/p/image-resize-for-aws-lambda/)
-- [스벨트 & 스벨트 킷](https://yunu7067.github.io/p/svelte-and-sveltekit/)
 
 **My GitHub Stats**
 ```text
 ⭐ Total Stars:                                   7
-➕ Total Commits:                             1,381
+➕ Total Commits:                             1,383
 🔀 Total PRs:                                   242
-🚩 Total Issues:                                 79
+🚩 Total Issues:                                 81
 📦 Contributed to:                               13
 ```
 
@@ -47,16 +47,19 @@
 🌞 Morning    225 commits   ████▍░░░░░░░░░░░░░░░░  21.1%
 🌆 Daytime    398 commits   ███████▊░░░░░░░░░░░░░  37.3%
 🌃 Evening    289 commits   █████▋░░░░░░░░░░░░░░░  27.1%
-🌙 Night      155 commits   ███░░░░░░░░░░░░░░░░░░  14.5%
+🌙 Night      156 commits   ███░░░░░░░░░░░░░░░░░░  14.6%
 ```
 
 📊 **This Week I Spent My Time On**
 ```text
-1 TypeScript 4 mins         ███████████████████░░  91.0%
-2 Markdown   0 secs         █▉░░░░░░░░░░░░░░░░░░░   9.0%
+1 MDX        48 mins        ███████████████▍░░░░░  73.7%
+2 Other      10 mins        ███▎░░░░░░░░░░░░░░░░░  16.0%
+3 TypeScript 4 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
+4 Java       1 min          ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+5 Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
-Last Updated on Thu, 01 Dec 2022 18:40:43 GMT
+Last Updated on Fri, 02 Dec 2022 18:36:57 GMT
 
 <!--END_SECTION:msrm-->
 
