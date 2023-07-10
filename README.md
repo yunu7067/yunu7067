@@ -36,7 +36,7 @@
 **My GitHub Stats**
 ```text
 ⭐ Total Stars:                                   8
-➕ Total Commits:                               711
+➕ Total Commits:                               611
 🔀 Total PRs:                                   255
 🚩 Total Issues:                                 81
 📦 Contributed to:                                3
@@ -52,10 +52,14 @@
 
 📊 **This Week I Spent My Time On**
 ```text
-
+1 Other      1 hr 44 mins   ██████████▍░░░░░░░░░░  49.8%
+2 JavaScript 1 hr 44 mins   ██████████▍░░░░░░░░░░  49.4%
+3 JSON       1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+4 TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+5 Lua        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
-Last Updated on Mon, 03 Jul 2023 18:40:58 GMT
+Last Updated on Mon, 10 Jul 2023 18:42:11 GMT
 
 <!--END_SECTION:msrm-->
 
